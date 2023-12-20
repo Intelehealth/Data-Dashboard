@@ -15,6 +15,9 @@ By using these dashboards, the Intelehealth core team can take necessary actions
 ##Instructions
 1. Install superset using <https://superset.apache.org/docs/installation/installing-superset-from-scratch/>
 2. Login into superset using admin credentials
-3. Import <https://github.com/Intelehealth/Data-Dashboard/blob/main/database_export_20231213T090811.zip>  using instructions from <https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/pages/26214416/Importing+Exporting+Apache+Superset+Data+Dashboard>
-4. 
+3. Import databases from this file <https://github.com/Intelehealth/Data-Dashboard/blob/main/database_export_20231213T090811.zip>  using instructions from <https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/pages/26214416/Importing+Exporting+Apache+Superset+Data+Dashboard>
+4. Change DB details
+5. Import sample dashboard file <https://github.com/Intelehealth/Data-Dashboard/blob/main/dashboard_export_20231213T085944.zip> using instructions from <https://intelehealthwiki.atlassian.net/wiki/spaces/INTELEHEAL/pages/26214416/Importing+Exporting+Apache+Superset+Data+Dashboard> and you have the Superset working!!
+   
+   
 
